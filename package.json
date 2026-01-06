@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/KaiFeng-tp-mbap/fwebpart3/issues"
   },
-  "homepage": "https://github.com/KaiFeng-tp-mbap/fwebpart3#readme"
+  "homepage": "https://github.com/KaiFeng-tp-mbap/fwebpart3#readme",
+  "dependencies": {
+    "body-parser": "^2.2.1",
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security"
+  }
 }
